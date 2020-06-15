@@ -10,6 +10,7 @@ public class GitTest {
 	System.out.println("=== Test Git 4 ===");
 	System.out.println("=== Test Git 4 new user ===");
 	System.out.println("=== Test Git 5 new user ===");
+	System.out.println("=== Test Git 5 ===");
     }
 }
 
