@@ -11,7 +11,7 @@ public class GitTest {
 	System.out.println("=== Test Git 4 new user ===");
 	System.out.println("=== Test Git 5 new user ===");
 	System.out.println("=== Test Git 5 ===");
-	System.out.println("=== Test Git 6 new user ===");
+	System.out.println("=== Test Git 8 new user ===");
     }
 }
 
