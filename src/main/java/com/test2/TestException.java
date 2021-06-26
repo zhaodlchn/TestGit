@@ -1,4 +1,4 @@
-package com.test;
+package com.test2;
 
 import com.exception.RuleException;
 
@@ -21,7 +21,6 @@ public class TestException {
             throw new RuleException("100001", "异常A");
         }
         System.out.println("=== AAAAA - 2 === : ");
-        System.out.println("=== AAAAA - 3 === : ");
     }
 
     public static void testB(boolean flag) throws RuleException {
