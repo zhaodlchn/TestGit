@@ -7,5 +7,6 @@ public class TestGit2 {
         System.out.println("=== SSTest Git2 ONE ===");
         System.out.println("=== SSTest Git2 TWO ===");
         System.out.println("=== SSTest Git2 THREE ===");
+        System.out.println("=== SSTest Git2 FOUR ===");
     }
 }
