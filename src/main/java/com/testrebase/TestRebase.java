@@ -8,6 +8,7 @@ public class TestRebase {
         System.out.println("=== Test Rebase 1 ===");
 		System.out.println("=== Test Rebase 2 ===");
 		System.out.println("=== Test Rebase 3 ===");
+		System.out.println("=== Test Rebase 4 ===");
     }
 }
 
