@@ -22,6 +22,7 @@ public class TestException {
         }
         System.out.println("=== AAAAA - 2 === : ");
         System.out.println("=== AAAAA - 3 === : ");
+        System.out.println("=== AAAAA - 4 === : ");
     }
 
     public static void testB(boolean flag) throws RuleException {
